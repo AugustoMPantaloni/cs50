@@ -14,3 +14,11 @@
         for(i = 0; variable[i] != '\0'; i++);
         return i;
     }
+
+
+
+
+
+
+
+
